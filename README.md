@@ -1,2 +1,2 @@
 # PythonPractice
-Practical task for lerning pytho
+Practical labs for lerning python
